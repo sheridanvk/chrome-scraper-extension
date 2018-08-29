@@ -1,0 +1,1 @@
+# chrome-scraper-extension
