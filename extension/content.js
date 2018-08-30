@@ -9,9 +9,11 @@ chrome.runtime.onMessage.addListener(
       var div = $("<div>");
 
       div.css({
-        position: 'absolute',
-        top: '10px',
-        right: '10px',
+        position: 'fixed',
+        left: '0px',
+        bottom: '0px',
+        width: '100%',
+        height: '20vh',
         border: '1px solid black'
       });
       div.text('hello from Lincoln and Sheridan')
