@@ -11,6 +11,7 @@
       "matches": [
         "<all_urls>"
       ],
+      "css": ["page-scraper.css"],
       "js": ["jquery-3.2.1.min.js", "content.js"]
     }
   ],
